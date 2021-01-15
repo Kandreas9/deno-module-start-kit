@@ -5,10 +5,10 @@ that dont want to create the same deno module setup every time.
 
 # DOC
 
-1 Clone the repository (green CODE button)
-2 place the repository in your projects folder
-3 Navigate through the console to this repository in your local files
-4 Execute `deno run --allow-read --allow-write index.ts`
+1. Clone the repository (green CODE button)
+2. place the repository in your projects folder
+3. Navigate through the console to this repository in your local files
+4. Execute `deno run --allow-read --allow-write index.ts`
 
 It will always place the root dir outside of the repos root with a name of
 Deno-Module-Kit. I tried to make this a single file executable but got too many
