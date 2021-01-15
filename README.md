@@ -3,7 +3,7 @@ that dont want to create the same deno module setup every time.
 
 ---
 
-\*\*DOC
+# DOC
 
 1 Clone the repository (green CODE button)
 2 place the repository in your projects folder
