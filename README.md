@@ -6,7 +6,7 @@ that dont want to create the same deno module setup every time.
 # DOC
 
 1. Clone the repository (green CODE button)
-2. place the repository in your projects folder
+2. Place the repository in your projects folder
 3. Navigate through the console to this repository in your local files
 4. Execute `deno run --allow-read --allow-write index.ts`
 
